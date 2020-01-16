@@ -4,4 +4,3 @@ FIrst commit
 Seound commit- Shift to third
 Commit which needs to moved to third.
 comment which need to be there.
-Edit by 1st commit and will be changed by new commit.
